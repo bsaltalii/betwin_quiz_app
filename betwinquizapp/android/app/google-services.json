@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271186982341",
+    "project_id": "betwinquizapp",
+    "storage_bucket": "betwinquizapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271186982341:android:db675d7651f94822dcc7ac",
+        "android_client_info": {
+          "package_name": "com.example.betwinquizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBTUAsLaX-vTtCyNrDdgF1dYeFr7D02rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
